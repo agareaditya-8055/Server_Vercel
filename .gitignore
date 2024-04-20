@@ -7,4 +7,3 @@ dist/
 .env
 
 .cache
-node_modules
